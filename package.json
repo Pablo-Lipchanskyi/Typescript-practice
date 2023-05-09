@@ -1,0 +1,27 @@
+{
+  "name": "typescript-practice",
+  "version": "1.0.0",
+  "description": "ts learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pablo-Lipchanskyi/Typescript-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pablo-Lipchanskyi/Typescript-practice/issues"
+  },
+  "homepage": "https://github.com/Pablo-Lipchanskyi/Typescript-practice#readme",
+  "devDependencies": {
+    "@types/node": "^20.1.1",
+    "tslint": "^6.1.3",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
